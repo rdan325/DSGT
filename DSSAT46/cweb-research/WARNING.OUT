@@ -1,0 +1,45 @@
+*WARNING DETAIL FILE
+
+******************************************************************************
+
+*DSSAT Cropping System Model Ver. 4.6.1.000 -release      APR 15, 2018; 17:43:28
+                                                                                
+*RUN   1        : Sim                       MZCER046 UNME2015    1              
+ MODEL          : MZCER046 - Maize                                              
+ EXPERIMENT     : UNME2015 MZ                                                   
+ DATA PATH      :                                                               
+ TREATMENT  1   : Sim                       MZCER046                            
+  
+
+ IPRES   YEAR DOY =    0   0
+ Residue application   1                                                       
+ Neither residue incorporation percentage nor depth specified. Applied residues
+ will remain on surface until a tillage event is specified.                    
+
+ IPSOIL  YEAR DOY =    0   0
+ Saturated hydraulic conductivity equal to zero for one or more soil layers.   
+ Data will be treated as missing.                                              
+
+ SOLORG  YEAR DOY = 2015  91
+ The initialized C:N ratio of the soil organic                                 
+ matter (humus) in layer   1 is unlikely:      9.7                             
+ A C:N ratio of 10.0 will be used to calculate initial soil organic N.         
+ Please check your SOIL.SOL file.                                              
+
+ SOLORG  YEAR DOY = 2015  91
+ The initialized C:N ratio of the soil organic                                 
+ matter (humus) in layer   2 is unlikely:      9.7                             
+ A C:N ratio of 10.0 will be used to calculate initial soil organic N.         
+ Please check your SOIL.SOL file.                                              
+
+ SOLORG  YEAR DOY = 2015  91
+ The initialized C:N ratio of the soil organic                                 
+ matter (humus) in layer   4 is unlikely:      9.7                             
+ A C:N ratio of 10.0 will be used to calculate initial soil organic N.         
+ Please check your SOIL.SOL file.                                              
+
+ SOLORG  YEAR DOY = 2015  91
+ The initialized C:N ratio of the soil organic                                 
+ matter (humus) in layer   5 is unlikely:      9.7                             
+ A C:N ratio of 10.0 will be used to calculate initial soil organic N.         
+ Please check your SOIL.SOL file.                                              

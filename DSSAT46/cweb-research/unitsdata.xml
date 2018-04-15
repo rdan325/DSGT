@@ -1,0 +1,222 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <quantity name="mass" common_symbol="m" dimension="1:0:0:0" preferred_unit="0">
+    <unit name="kilogram" formula="kg" si_slope="1" si_intercept="0" above="tonne" below="gram"></unit>
+    <unit name="short ton" formula="ton" si_slope="0.00110231" si_intercept="0"></unit>
+    <unit name="pound" formula="lb" si_slope="2.20462234 " si_intercept="0"></unit>
+    <unit name="gram" formula="g" si_slope="1000" si_intercept="0" above="kilogram" below="milligram"></unit>
+    <unit name="milligram" formula="mg" si_slope="1000000" si_intercept="0" above="gram" below="microgram"></unit>
+    <unit name="microgram" formula="ug" si_slope="1000000000" si_intercept="0" above="milligram" below="nanogram"></unit>
+    <unit name="nanogram" formula="ng" si_slope="1000000000000" si_intercept="0"></unit>
+    <unit name="56-pound bushel" formula="bushel" si_slope="0.03936852879" si_intercept="0"></unit>
+    <unit name="52-pound bushel (dry soybean)" formula="bushel52" si_slope="0.03936852879" si_intercept="0"></unit>
+    <unit name="long ton" formula="lgtn" si_slope="0.000984207" si_intercept="0"></unit>
+    <unit name="tonne" formula="t" si_slope="0.001" si_intercept="0" below="kilogram"></unit>
+  </quantity>
+  <quantity name="length" common_symbol="l" dimension="0:1:0:0" preferred_unit="0">
+    <unit name="meter" formula="m" si_slope="1" si_intercept="0" above="kilometer" below="centimeter"></unit>
+    <unit name="kilometer" formula="km" si_slope="0.001" si_intercept="0" below="meter"></unit>
+    <unit name="feet" formula="ft" si_slope="3.281" si_intercept="0"></unit>
+    <unit name="mile" formula="mi" si_slope="0.000621371" si_intercept="0"></unit>
+    <unit name="nautical mile" formula="nmi" si_slope="0.000539957" si_intercept="0"></unit>
+    <unit name="inch" formula="in" si_slope="39.3701" si_intercept="0"></unit>
+    <unit name="hecto kilometer" formula="hkm" si_slope="0.00001" si_intercept="0"></unit>
+    <unit name="centimeter" formula="cm" si_slope="100" si_intercept="0" above="meter"></unit>
+  </quantity>
+  <quantity name="time" common_symbol="t" dimension="0:0:1:0" preferred_unit="0" epsilon="0.001">
+    <unit name="second" formula="s"   si_slope="1"             si_intercept="0" above="minute"></unit>
+    <unit name="minute" formula="min" si_slope="0.01666666666666666"     si_intercept="0" above="hour" below="second"></unit>
+    <unit name="hour"   formula="h"   si_slope="0.0002777777777777777" si_intercept="0" above="day" below="minute"></unit>
+    <unit name="day"   formula="day"   si_slope="0.00001157407407407407" si_intercept="0" above="year" below="hour"></unit>
+    <unit name="year"   formula="year" si_slope="0.00000003168876461541279" si_intercept="0" below="day"></unit>
+  </quantity>
+  <quantity name="energy" common_symbol="E" dimension="1:2:-2:0" preferred_unit="0">
+    <unit name="joule" formula="J" si_slope="1" si_intercept="0" above="kilojoule" below="millijoule"></unit>
+    <unit name="millijoule" formula="mJ" si_slope="1000" si_intercept="0" above="joule"></unit>
+    <unit name="kilojoule" formula="kJ" si_slope="0.001" si_intercept="0" above="megajoule" below="joule"></unit>
+    <unit name="megajoule" formula="MJ" si_slope="0.000001" si_intercept="0" below="kilojoule"></unit>
+    <unit name="kilowatt hour" formula="kWh" si_slope="0.0000002777777780" si_intercept="0" below="watt_hour"></unit>
+    <unit name="watt_hour" formula="Wh" si_slope="0.0002777777780" si_intercept="0" above="kilowatt hour"></unit>
+    <unit name="British_thermal_unit" formula="Btu" si_slope="0.0009478171203133172" si_intercept="0" above="Mullion_of_British_thermal_unit"></unit>
+    <unit name="Mullion_of_British_thermal_unit" formula="mmBtu" si_slope="0.00000000094781712" si_intercept="0" below="British_thermal_unit"></unit>
+    <unit name="Tonne_of_Oil_Equivalent" formula="toe" si_slope="0.00000000002388458966274959" si_intercept="0"></unit>
+    <unit name="Horsepower_Hours" formula="hph" si_slope="0.0000003725" si_intercept="0"></unit>
+    <unit name="Calorie" formula="cal" si_slope="0.23900573" si_intercept="0" above="Kilocalories"></unit>
+    <unit name="Kilocalories" formula="kcal" si_slope="0.00023900573" si_intercept="0" below="Calorie"></unit>
+  </quantity>
+  <quantity name="area" common_symbol="area" dimension="0:2:0:0" preferred_unit="0">
+    <unit name="meter_squared" formula="m^2" si_slope="1" si_intercept="0"></unit>
+    <unit name="mile_squared" formula="mi^2" si_slope="0.000000386102" si_intercept="0"></unit>
+    <unit name="kilometer_squared" formula="km^2" si_slope="0.000001" si_intercept="0"></unit>
+    <unit name="feet_squared" formula="ft^2" si_slope="10.7639" si_intercept="0"></unit>
+    <unit name="inch_squared" formula="in^2" si_slope="1550" si_intercept="0"></unit>
+    <unit name="acre" formula="acre" si_slope="0.000247105" si_intercept="0"></unit>
+    <unit name="hectare " formula="ha" si_slope="0.0001" si_intercept="0"></unit>
+  </quantity>
+  <quantity name="power" common_symbol="P" dimension="1:2:-3:0" preferred_unit="0">
+    <unit name="watt" formula="W" si_slope="1" si_intercept="0"></unit>
+    <unit name="kilowatt" formula="kW" si_slope="0.001" si_intercept="0"></unit>
+    <unit name="horsepower" formula="hp" si_slope="0.001341" si_intercept="0"></unit>
+  </quantity>
+  <quantity name="volume" common_symbol="V" dimension="0:3:0:0" preferred_unit="0">
+    <unit name="cubic_meter" formula="m^3" si_slope="1" si_intercept="0"></unit>
+    <unit name="cubic_feet" formula="ft^3" si_slope="35.3147" si_intercept="0"></unit>
+    <unit name="cubic_centimeter" formula="cm^3" si_slope="1000000" si_intercept="0"></unit>
+    <unit name="gallon" formula="gal" si_slope="264.172" si_intercept="0"></unit>
+    <unit name="liter" formula="L" si_slope="1000" si_intercept="0"></unit>
+    <unit name="Oil_Barrel" formula="bbl" si_slope="6.29" si_intercept="0"></unit>
+    <unit name="US_bushel" formula="bu" si_slope="28.38" si_intercept="0"></unit>
+  </quantity>
+  <quantity name="dimensionless" common_symbol="" dimension="0:0:0:0" preferred_unit="0">
+    <unit name="ratio" formula="" si_slope="1" si_intercept="0"></unit>
+    <unit name="percentage" formula="%" si_slope="100" si_intercept="0"></unit>
+    <unit name="parts-per-million" formula="ppm" si_slope="1000000" si_intercept="0"></unit>
+    <unit name="item" formula="item" si_slope="1" si_intercept="0"></unit>
+  </quantity>
+  <quantity name="currency" common_symbol="$" dimension="0:0:0:1" preferred_unit="0">
+    <unit name="USD" formula="$" si_slope="1" si_intercept="0"></unit>
+    <unit name="EUR" formula="E" si_slope="1.38" si_intercept="0"></unit>
+  </quantity>
+  <quantity name="separative_work" common_symbol="SW" dimension="0:0:0:0" preferred_unit="0">
+    <unit name="separative_work_unit" formula="SWU" si_slope="1" si_intercept="0"></unit>
+  </quantity>
+  <quantity name="transportation_cost" common_symbol="EI" dimension="0:1:-2:0" preferred_unit="0">
+    <unit name="joule_per_kilogram_meter" formula="J/(kg m)" si_slope="1" si_intercept="0"></unit>
+    <unit name="btu_per_short_ton_mile" formula="Btu/(ton mi)" si_slope="0.0007227" si_intercept="0"></unit>
+  </quantity>
+  <quantity name="biofuel_yeild" common_symbol="" dimension="-1:3:0:0" preferred_unit="0">
+    <unit name="meter_cubed_per_kilogram" formula="m^3/kg" si_slope="1" si_intercept="0"></unit>
+    <unit name="galon_per_bushel" formula="gal/bushel" si_slope="0.09615326378" si_intercept="0"></unit>
+  </quantity>
+  <quantity name="speed" common_symbol="V" dimension="0:1:-1:0" preferred_unit="0">
+    <unit name="meter_per_second" formula="m/s" si_slope="1" si_intercept="0"></unit>
+    <unit name="mile_per_hour" formula="mi/h" si_slope="2.23693629205" si_intercept="0"></unit>
+    <unit name="knot" formula="kn" si_slope="1.94384449412" si_intercept="0"></unit>
+  </quantity>
+  <quantity name="fuel_economy" common_symbol="" dimension="0:-2:0:0" preferred_unit="1">
+    <unit name="meter_per_meter_cube" formula="m/m^3" si_slope="1" si_intercept="0"></unit>
+    <unit name="miles_per_gallon" formula="mi/gal" si_slope="425144" si_intercept="0"></unit>
+  </quantity>
+  <derived_quantity name="pressure" numerator="mass" denominator="area" preferred_unit="0"/>
+  <derived_quantity name="fuel_consumption" numerator="volume" denominator="length" preferred_unit="0"/>
+  <derived_quantity name="heating_value_(mass)" numerator="energy" denominator="mass" preferred_unit="0"/>
+  <derived_quantity name="heating_value_(volume)" numerator="energy" denominator="volume" preferred_unit="0"/>
+  <derived_quantity name="mass_density" numerator="mass" denominator="volume" preferred_unit="0"/>
+  <derived_quantity name="mass_ratio" numerator="mass" denominator="mass" preferred_unit="0"/>
+  <derived_quantity name="emission_factor" numerator="mass" denominator="energy" common_symbol="ef" preferred_unit="0"/>
+  <derived_quantity name="vehicle_emission_factor" numerator="mass" denominator="length" preferred_unit="0"/>
+  <derived_quantity name="vehicle_energy_used" numerator="energy" denominator="length" preferred_unit="0"/>
+  <derived_quantity name="thermal_efficiency" numerator="energy" denominator="energy" preferred_unit="0"/>
+  <derived_quantity name="market_value_volume" numerator="currency" denominator="volume" preferred_unit="0"/>
+  <derived_quantity name="market_value_mass" numerator="currency" denominator="mass" preferred_unit="0"/>
+  <derived_quantity name="market_value_energy" numerator="currency" denominator="energy" preferred_unit="0"/>
+  <derived_quantity name="horsepower_factor" numerator="power" denominator="mass" preferred_unit="0"/>
+  <derived_quantity name="loss_rate" numerator="dimensionless" denominator="time" preferred_unit="0"/>
+  <derived_quantity name="loss_rate_dis" numerator="dimensionless" denominator="length" preferred_unit="0"/>
+  <oldunitsystem>
+    <groups>
+      <group name="distance" quantity="length"/>
+      <group name="area" quantity="area"/>
+      <group name="mass" quantity="mass"/>
+      <group name="time" quantity="time"/>
+      <group name="energy" quantity="energy"/>
+      <group name="power" quantity="power"/>
+      <group name="volume" quantity="volume"/>
+      <group name="percentage" quantity="dimensionless"/>
+      <group name="ratio_group" quantity="dimensionless"/>
+      <group name="unitless" quantity="dimensionless"/>
+      <group name="" quantity="dimensionless"/>
+      <group name="concentration" quantity="dimensionless"/>
+      <group name="currency" quantity="currency"/>
+      <group name="date" quantity="time"/>
+      <group name="separative_work" quantity="separative_work"/>
+      <group name="volume_solid_gas" quantity="volume" />
+      <group name="efficiency" quantity="thermal_efficiency" />
+      <group name="pressure" quantity="pressure" />
+      <group name="fuel_consumption" quantity="fuel_consumption" />
+      <group name="fuel_economy" quantity="fuel_economy"/>
+      <group name="energy_intensity" quantity="transportation_cost" />
+      <group name="heating_value_mass" quantity="heating_value_(mass)"/>
+      <group name="heating_value_volume" quantity="heating_value_(volume)"/>
+      <group name="density" quantity="mass_density"/>
+      <group name="yield" quantity="mass"/>
+      <group name="acre_yield" quantity="pressure"/>
+      <group name="corn_yield" quantity="pressure"/>
+      <group name="bagasse_yield" quantity="pressure"/>
+      <group name="ethannol_yield" quantity="biofuel_yeild"/>
+      <group name="nutrient_add" quantity="mass_ratio"/>
+      <group name="energy_density" quantity="heating_value_(mass)"/>
+      <group name="emission_factor" quantity="emission_factor"/>
+      <group name="emission_factor_grams" quantity="mass_ratio"/>
+      <group name="vehicle_emission_factor" quantity="vehicle_emission_factor"/>
+      <group name="vehicle_energy" quantity="vehicle_energy_used"/>
+      <group name="energy_use" quantity="thermal_efficiency"/>
+      <group name="speed" quantity="speed"/>
+      <group name="market_value_volume" quantity="market_value_volume"/>
+      <group name="market_value_mass" quantity="market_value_mass"/>
+      <group name="market_value_energy" quantity="market_value_energy"/>
+      <group name="horsepower_factor" quantity="horsepower_factor"/>
+      <group name="loss_rate_per_day" quantity="loss_rate"/>
+      <group name="joules/swu" quantity="energy"/>
+    </groups>
+    <oldunits>
+      <oldunit name="miles"  formula="mi"/>
+      <oldunit name=""  formula=""/>
+      <oldunit name="feet"  formula="ft"/>
+      <oldunit name="inches"  formula="in"/>
+      <oldunit name="meters"  formula="m"/>
+      <oldunit name="hecto-kilo-meters" formula="hkm"/>
+      <oldunit name="nautical_miles" formula="nmi"/>
+      <oldunit name="acres"  formula="acre"/>
+      <oldunit name="sq_miles" formula="mi^2"/>
+      <oldunit name="sq_kilometers"  formula="km^2"/>
+      <oldunit name="sq_meters"  formula="m^2"/>
+      <oldunit name="hectares"  formula="ha"/>
+      <oldunit name="sq_feet"  formula="ft^2"/>
+      <oldunit name="sq_inches"  formula="in^2"/>
+      <oldunit name="grams"  formula="g"/>
+      <oldunit name="kilograms"  formula="kg"/>
+      <oldunit name="short_tons"  formula="ton"/>
+      <oldunit name="long_tons"  formula="lgtn"/>
+      <oldunit name="pounds"  formula="lb"/>
+      <oldunit name="tonnes"  formula="t"/>
+      <oldunit name="bushels_corn" formula="bushel"/>
+      <oldunit name="seconds"  formula="s"/>
+      <oldunit name="minutes"  formula="min"/>
+      <oldunit name="hours"  formula="h"/>
+      <oldunit name="days"  formula="day"/>
+      <oldunit name="years"  formula="year"/>
+      <oldunit name="date_year"  formula="year"/>
+      <oldunit name="btus"  formula="Btu"/>
+      <oldunit name="mmbtus"  formula="mmBtu"/>
+      <oldunit name="joules"  formula="J"/>
+      <oldunit name="mega-joules"  formula="MJ"/>
+      <oldunit name="tonne_of_oil_equivalent" formula="toe"/>
+      <oldunit name="watt_hours"  formula="Wh"/>
+      <oldunit name="horsepower_hours"  formula="hph"/>
+      <oldunit name="calories"  formula="cal"/>
+      <oldunit name="kilocalories"  formula="kcal"/>
+      <oldunit name="watts"  formula="W"/>
+      <oldunit name="horsepower"  formula="hp"/>
+      <oldunit name="gallons"  formula="gal"/>
+      <oldunit name="liters"  formula="L"/>
+      <oldunit name="cu_feet"  formula="ft^3"/>
+      <oldunit name="cu_meters"  formula="m^3"/>
+      <oldunit name="cu_centimeters"  formula="cm^3"/>
+      <oldunit name="oil_barrel"  formula="bbl"/>
+      <oldunit name="bushels" formula="bu"/>
+      <oldunit name="ratio"  formula=""/>
+      <oldunit name="percent"  formula="%"/>
+      <oldunit name="parts_per_million" formula="ppm"/>
+      <oldunit name="mlt"  formula="mlt"/>
+      <oldunit name="unitless" formula=""/>
+      <oldunit name="us_dollar"  formula="$"/>
+      <oldunit name="swu" formula="SWU"/>
+      <oldunit name="us_bsh_soybean" formula="bushel52"/>
+      <oldunit name="grams/watt_hours" formula="g/(Wh)"/>
+      <oldunit name="joules/meters/kilograms" formula="J/(kg m)"/>
+      <oldunit name="us_dollar/pounds" formula="$/(kg)"/>
+      <oldunit name="joules/meters" formula="J/(m)"/>
+    </oldunits>
+  </oldunitsystem>
+</root>

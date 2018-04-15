@@ -1,0 +1,21 @@
+*MANAGEMENT OPERATIONS EVENT SUMMARY
+
+*DSSAT Cropping System Model Ver. 4.6.1.000 -release      APR 15, 2018; 17:43:28
+                                                                                
+*RUN   1        : Sim                       MZCER046 UNME2015    1              
+ MODEL          : MZCER046 - Maize                                              
+ EXPERIMENT     : UNME2015 MZ                                                   
+ DATA PATH      :                                                               
+ TREATMENT  1   : Sim                       MZCER046                            
+  
+@RUN Date........  DOY    DAS    DAP  CR  Operation       Quantities
+   1 APR  1, 2015  091      1      0  MZ  Start Sim
+   1 APR 15, 2015  105     15      0  MZ  Tillage           10.0 cm
+   1 MAY  1, 2015  121     31      0  MZ  Planting       
+   1 MAY  1, 2015  121     31      0  MZ  Fertilizer        300. kg[N]/ha 
+   1 MAY  1, 2015  121     31      0  MZ  Organic matter      0. kg[DM]/ha
+   1 JUL 13, 2015  194    104     73  MZ  Irrigation        25.0 mm
+   1 JUL 23, 2015  204    114     83  MZ  Irrigation        25.0 mm
+   1 SEP 20, 2015  263    173    142  MZ  Phys. Maturity 
+   1 OCT 15, 2015  288    198    167  MZ  Harvest         13234. kg/ha
+ 

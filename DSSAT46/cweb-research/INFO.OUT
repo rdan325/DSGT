@@ -1,0 +1,92 @@
+*INFO DETAIL FILE
+
+******************************************************************************
+
+*DSSAT Cropping System Model Ver. 4.6.1.000 -release      APR 15, 2018; 17:43:28
+                                                                                
+*RUN   1        : Sim                       MZCER046 UNME2015    1              
+ MODEL          : MZCER046 - Maize                                              
+ EXPERIMENT     : UNME2015 MZ                                                   
+ DATA PATH      :                                                               
+ TREATMENT  1   : Sim                       MZCER046                            
+  
+
+ CSM     YEAR DOY = 2015  91
+ RNMODE = B                                                                    
+ PATHEX =                                                                      
+ FILEX  = UNME2015.MZX                                                         
+ FILEB  = run.v46                                                              
+ FILEIO = DSSAT46.INP                                                          
+ MODEL  = MZCER046                                                             
+ TRTNUM =     1                                                                
+
+ SOILDYN  YEAR DOY = 2015  91
+ The soil file has missing or invalid data.                                    
+ Default values have been used for these variables:                            
+   CEC, ADCOEF                                                                 
+ These defaults may or may not be important to your results.                   
+
+ RETC  YEAR DOY = 2015  91
+ Soil RETC parameters:                                                         
+  LYR DS  SWCN   WCR    Hb Lambd  Alpha     m     n Texture                    
+   1   5-99.00 0.053   4.5 0.139  0.011 0.141 1.164 Loam                       
+   2  15-99.00 0.053   4.5 0.139  0.011 0.141 1.164 Loam                       
+   3  30-99.00 0.053   4.4 0.139  0.011 0.141 1.164 Loam                       
+   4  45-99.00 0.043   1.6 0.154  0.020 0.165 1.198 Loam                       
+   5  60-99.00 0.043   1.6 0.154  0.020 0.165 1.198 Loam                       
+   6  90-99.00 0.043   1.4 0.148  0.021 0.162 1.193 Loam                       
+   7 120-99.00 0.074   3.4 0.188  0.013 0.186 1.228 ClayLoam                   
+   8 150-99.00 0.045   3.0 0.160  0.014 0.164 1.196 Loam                       
+
+ SOILDYN  YEAR DOY = 2015  91
+ Soil ID: IB00000005                                                           
+ DEFAULT - MEDIUM SILTY LOAM                                                   
+ GENERIC                                                                       
+   SALB SWCON    CN  DMOD  SLPF SMPX                                           
+   0.12  0.30  79.0  1.00  1.00 IB001                                          
+ Soil layer distribution method: 2                                             
+      DS DLAYR    LL   DUL   SAT  Root    BD    OC  CLAY  SILT  SAND           
+ LYR  cm    cm  frac  frac  frac  Grow g/cm3     %     %     %     %    pH     
+   1   5     5 0.230 0.354 0.450 1.000  1.37  1.16  16.3  48.6  35.1   6.5     
+   2  15    10 0.230 0.354 0.450 1.000  1.37  1.16  16.3  48.6  35.1   6.5     
+   3  30    15 0.230 0.354 0.451 0.638  1.37  1.10  16.3  48.6  35.1   6.5     
+   4  45    15 0.186 0.300 0.452 0.472  1.37  0.97  19.3  43.2  37.5   6.5     
+   5  60    15 0.186 0.300 0.452 0.350  1.37  0.97  19.3  43.2  37.5   6.5     
+   6  90    30 0.188 0.298 0.450 0.223  1.38  0.72  24.6  40.9  34.5   6.5     
+   7 120    30 0.194 0.320 0.452 0.122  1.38  0.43  27.6  42.7  29.7   6.5     
+   8 150    30 0.194 0.320 0.450 0.067  1.39  0.20  10.0  42.7  47.3   6.5     
+
+ SOILDYN  YEAR DOY = 2015  91
+ Additional soil properties                                                    
+                Convert                                                        
+    Cation Adsrp  ppm /  SLCF  TOTN  OrgN                                      
+   L  Exch  Coef  kg/ha     %     % kg/ha                                      
+   1  15.5   0.0   1.46   0.0  0.12   821                                      
+   2  15.5   0.0   0.73   0.0  0.12  1643                                      
+   3  15.5   0.0   0.49   0.0  0.11  2258                                      
+   4  15.5   0.0   0.49   0.0  0.10  2053                                      
+   5  15.5   0.0   0.49   0.0  0.10  2053                                      
+   6  15.5   0.0   0.24   0.0  0.07  2894                                      
+   7  15.5   0.0   0.24   0.0  0.04  1652                                      
+   8  15.5   0.0   0.24   0.0  0.02   830                                      
+
+ IPWTH   YEAR DOY = 2015  91
+ C:\DSGT\DSSAT46\Weather\UNME1501.WTH                                          
+ Found daily weather data headers for:                                         
+   SRAD           Col   7 -  11                                                
+   TMAX           Col  13 -  17                                                
+   TMIN           Col  19 -  23                                                
+   RAIN           Col  25 -  29                                                
+   DEWP           Col  31 -  35                                                
+   WIND           Col  37 -  41                                                
+   PAR            Col  43 -  47                                                
+   RHUM           Col  55 -  59                                                
+
+ TILEVENT  YEAR DOY = 2015 105
+              -- Lyr Thick (cm)--  --Blk dens (g/cm3)- ---- SOM-BD --------    
+                DL1    DL2    DL3    BD1    BD2    BD3   BDS1   BDS2   BDS3    
+ Before till  5.000 10.000 15.000  1.370  1.370  1.370  1.370  1.370  1.370    
+ After till   5.556 10.556 15.000  1.233  1.298  1.370                         
+
+ ENDRUN  YEAR DOY = 2015 288
+ Normal end of run        1                                                    
