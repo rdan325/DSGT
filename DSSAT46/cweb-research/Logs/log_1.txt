@@ -1,0 +1,512 @@
+4/16/2018 - 8:25 AM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 8:25 AM - The edge connecting to the main output is refering to a canonical process result storage that cannot be found in this Pathway.CanonicalProcesses, check edge definition or creation of CanonicalProcesses
+4/16/2018 - 8:25 AM - The edge connecting to the main output is refering to a canonical process result storage that cannot be found in this Pathway.CanonicalProcesses, check edge definition or creation of CanonicalProcesses
+4/16/2018 - 8:25 AM - The edge connecting to the main output is refering to a canonical process result storage that cannot be found in this Pathway.CanonicalProcesses, check edge definition or creation of CanonicalProcesses
+4/16/2018 - 8:25 AM - The edge connecting to the main output is refering to a canonical process result storage that cannot be found in this Pathway.CanonicalProcesses, check edge definition or creation of CanonicalProcesses
+4/16/2018 - 8:25 AM - The edge connecting to the main output is refering to a canonical process result storage that cannot be found in this Pathway.CanonicalProcesses, check edge definition or creation of CanonicalProcesses
+4/16/2018 - 8:25 AM - The edge connecting to the main output is refering to a canonical process result storage that cannot be found in this Pathway.CanonicalProcesses, check edge definition or creation of CanonicalProcesses
+4/16/2018 - 8:25 AM - The edge connecting to the main output is refering to a canonical process result storage that cannot be found in this Pathway.CanonicalProcesses, check edge definition or creation of CanonicalProcesses
+4/16/2018 - 8:25 AM - The edge connecting to the main output is refering to a canonical process result storage that cannot be found in this Pathway.CanonicalProcesses, check edge definition or creation of CanonicalProcesses
+4/16/2018 - 8:25 AM - The edge connecting to the main output is refering to a canonical process result storage that cannot be found in this Pathway.CanonicalProcesses, check edge definition or creation of CanonicalProcesses
+4/16/2018 - 8:25 AM - The edge connecting to the main output is refering to a canonical process result storage that cannot be found in this Pathway.CanonicalProcesses, check edge definition or creation of CanonicalProcesses
+4/16/2018 - 8:25 AM - The edge connecting to the main output is refering to a canonical process result storage that cannot be found in this Pathway.CanonicalProcesses, check edge definition or creation of CanonicalProcesses
+4/16/2018 - 8:25 AM - The edge connecting to the main output is refering to a canonical process result storage that cannot be found in this Pathway.CanonicalProcesses, check edge definition or creation of CanonicalProcesses
+4/16/2018 - 8:25 AM - The edge connecting to the main output is refering to a canonical process result storage that cannot be found in this Pathway.CanonicalProcesses, check edge definition or creation of CanonicalProcesses
+4/16/2018 - 8:25 AM - The edge connecting to the main output is refering to a canonical process result storage that cannot be found in this Pathway.CanonicalProcesses, check edge definition or creation of CanonicalProcesses
+4/16/2018 - 8:25 AM - The edge connecting to the main output is refering to a canonical process result storage that cannot be found in this Pathway.CanonicalProcesses, check edge definition or creation of CanonicalProcesses
+4/16/2018 - 8:25 AM - The edge connecting to the main output is refering to a canonical process result storage that cannot be found in this Pathway.CanonicalProcesses, check edge definition or creation of CanonicalProcesses
+4/16/2018 - 8:25 AM - The edge connecting to the main output is refering to a canonical process result storage that cannot be found in this Pathway.CanonicalProcesses, check edge definition or creation of CanonicalProcesses
+4/16/2018 - 8:25 AM - The edge connecting to the main output is refering to a canonical process result storage that cannot be found in this Pathway.CanonicalProcesses, check edge definition or creation of CanonicalProcesses
+4/16/2018 - 8:25 AM - The edge connecting to the main output is refering to a canonical process result storage that cannot be found in this Pathway.CanonicalProcesses, check edge definition or creation of CanonicalProcesses
+4/16/2018 - 8:25 AM - The edge connecting to the main output is refering to a canonical process result storage that cannot be found in this Pathway.CanonicalProcesses, check edge definition or creation of CanonicalProcesses
+4/16/2018 - 8:25 AM - The edge connecting to the main output is refering to a canonical process result storage that cannot be found in this Pathway.CanonicalProcesses, check edge definition or creation of CanonicalProcesses
+4/16/2018 - 8:25 AM - The edge connecting to the main output is refering to a canonical process result storage that cannot be found in this Pathway.CanonicalProcesses, check edge definition or creation of CanonicalProcesses
+4/16/2018 - 8:25 AM - The edge connecting to the main output is refering to a canonical process result storage that cannot be found in this Pathway.CanonicalProcesses, check edge definition or creation of CanonicalProcesses
+4/16/2018 - 8:25 AM - The edge connecting to the main output is refering to a canonical process result storage that cannot be found in this Pathway.CanonicalProcesses, check edge definition or creation of CanonicalProcesses
+4/16/2018 - 8:25 AM - The edge connecting to the main output is refering to a canonical process result storage that cannot be found in this Pathway.CanonicalProcesses, check edge definition or creation of CanonicalProcesses
+4/16/2018 - 8:25 AM - The edge connecting to the main output is refering to a canonical process result storage that cannot be found in this Pathway.CanonicalProcesses, check edge definition or creation of CanonicalProcesses
+4/16/2018 - 8:25 AM - The edge connecting to the main output is refering to a canonical process result storage that cannot be found in this Pathway.CanonicalProcesses, check edge definition or creation of CanonicalProcesses
+4/16/2018 - 8:25 AM - The edge connecting to the main output is refering to a canonical process result storage that cannot be found in this Pathway.CanonicalProcesses, check edge definition or creation of CanonicalProcesses
+4/16/2018 - 8:25 AM - The edge connecting to the main output is refering to a canonical process result storage that cannot be found in this Pathway.CanonicalProcesses, check edge definition or creation of CanonicalProcesses
+4/16/2018 - 8:25 AM - The edge connecting to the main output is refering to a canonical process result storage that cannot be found in this Pathway.CanonicalProcesses, check edge definition or creation of CanonicalProcesses
+4/16/2018 - 8:25 AM - The edge connecting to the main output is refering to a canonical process result storage that cannot be found in this Pathway.CanonicalProcesses, check edge definition or creation of CanonicalProcesses
+4/16/2018 - 8:25 AM - The edge connecting to the main output is refering to a canonical process result storage that cannot be found in this Pathway.CanonicalProcesses, check edge definition or creation of CanonicalProcesses
+4/16/2018 - 8:25 AM - The edge connecting to the main output is refering to a canonical process result storage that cannot be found in this Pathway.CanonicalProcesses, check edge definition or creation of CanonicalProcesses
+4/16/2018 - 8:25 AM - The edge connecting to the main output is refering to a canonical process result storage that cannot be found in this Pathway.CanonicalProcesses, check edge definition or creation of CanonicalProcesses
+4/16/2018 - 8:25 AM - The edge connecting to the main output is refering to a canonical process result storage that cannot be found in this Pathway.CanonicalProcesses, check edge definition or creation of CanonicalProcesses
+4/16/2018 - 8:25 AM - The edge connecting to the main output is refering to a canonical process result storage that cannot be found in this Pathway.CanonicalProcesses, check edge definition or creation of CanonicalProcesses
+4/16/2018 - 8:25 AM - The edge connecting to the main output is refering to a canonical process result storage that cannot be found in this Pathway.CanonicalProcesses, check edge definition or creation of CanonicalProcesses
+4/16/2018 - 8:25 AM - The edge connecting to the main output is refering to a canonical process result storage that cannot be found in this Pathway.CanonicalProcesses, check edge definition or creation of CanonicalProcesses
+4/16/2018 - 8:25 AM - The edge connecting to the main output is refering to a canonical process result storage that cannot be found in this Pathway.CanonicalProcesses, check edge definition or creation of CanonicalProcesses
+4/16/2018 - 8:25 AM - The edge connecting to the main output is refering to a canonical process result storage that cannot be found in this Pathway.CanonicalProcesses, check edge definition or creation of CanonicalProcesses
+4/16/2018 - 8:25 AM - The edge connecting to the main output is refering to a canonical process result storage that cannot be found in this Pathway.CanonicalProcesses, check edge definition or creation of CanonicalProcesses
+4/16/2018 - 8:25 AM - The edge connecting to the main output is refering to a canonical process result storage that cannot be found in this Pathway.CanonicalProcesses, check edge definition or creation of CanonicalProcesses
+4/16/2018 - 8:25 AM - The edge connecting to the main output is refering to a canonical process result storage that cannot be found in this Pathway.CanonicalProcesses, check edge definition or creation of CanonicalProcesses
+4/16/2018 - 8:25 AM - The edge connecting to the main output is refering to a canonical process result storage that cannot be found in this Pathway.CanonicalProcesses, check edge definition or creation of CanonicalProcesses
+4/16/2018 - 8:25 AM - The edge connecting to the main output is refering to a canonical process result storage that cannot be found in this Pathway.CanonicalProcesses, check edge definition or creation of CanonicalProcesses
+4/16/2018 - 8:25 AM - The edge connecting to the main output is refering to a canonical process result storage that cannot be found in this Pathway.CanonicalProcesses, check edge definition or creation of CanonicalProcesses
+4/16/2018 - 8:25 AM - The edge connecting to the main output is refering to a canonical process result storage that cannot be found in this Pathway.CanonicalProcesses, check edge definition or creation of CanonicalProcesses
+4/16/2018 - 8:25 AM - The edge connecting to the main output is refering to a canonical process result storage that cannot be found in this Pathway.CanonicalProcesses, check edge definition or creation of CanonicalProcesses
+4/16/2018 - 8:25 AM - The edge connecting to the main output is refering to a canonical process result storage that cannot be found in this Pathway.CanonicalProcesses, check edge definition or creation of CanonicalProcesses
+4/16/2018 - 8:25 AM - The edge connecting to the main output is refering to a canonical process result storage that cannot be found in this Pathway.CanonicalProcesses, check edge definition or creation of CanonicalProcesses
+4/16/2018 - 8:25 AM - The edge connecting to the main output is refering to a canonical process result storage that cannot be found in this Pathway.CanonicalProcesses, check edge definition or creation of CanonicalProcesses
+4/16/2018 - 8:25 AM - The edge connecting to the main output is refering to a canonical process result storage that cannot be found in this Pathway.CanonicalProcesses, check edge definition or creation of CanonicalProcesses
+4/16/2018 - 8:25 AM - The edge connecting to the main output is refering to a canonical process result storage that cannot be found in this Pathway.CanonicalProcesses, check edge definition or creation of CanonicalProcesses
+4/16/2018 - 8:25 AM - The edge connecting to the main output is refering to a canonical process result storage that cannot be found in this Pathway.CanonicalProcesses, check edge definition or creation of CanonicalProcesses
+4/16/2018 - 8:25 AM - The edge connecting to the main output is refering to a canonical process result storage that cannot be found in this Pathway.CanonicalProcesses, check edge definition or creation of CanonicalProcesses
+4/16/2018 - 8:25 AM - The edge connecting to the main output is refering to a canonical process result storage that cannot be found in this Pathway.CanonicalProcesses, check edge definition or creation of CanonicalProcesses
+4/16/2018 - 8:25 AM - The edge connecting to the main output is refering to a canonical process result storage that cannot be found in this Pathway.CanonicalProcesses, check edge definition or creation of CanonicalProcesses
+4/16/2018 - 8:25 AM - The edge connecting to the main output is refering to a canonical process result storage that cannot be found in this Pathway.CanonicalProcesses, check edge definition or creation of CanonicalProcesses
+4/16/2018 - 8:25 AM - The edge connecting to the main output is refering to a canonical process result storage that cannot be found in this Pathway.CanonicalProcesses, check edge definition or creation of CanonicalProcesses
+4/16/2018 - 8:25 AM - The edge connecting to the main output is refering to a canonical process result storage that cannot be found in this Pathway.CanonicalProcesses, check edge definition or creation of CanonicalProcesses
+4/16/2018 - 8:25 AM - The edge connecting to the main output is refering to a canonical process result storage that cannot be found in this Pathway.CanonicalProcesses, check edge definition or creation of CanonicalProcesses
+4/16/2018 - 8:25 AM - The edge connecting to the main output is refering to a canonical process result storage that cannot be found in this Pathway.CanonicalProcesses, check edge definition or creation of CanonicalProcesses
+4/16/2018 - 8:25 AM - The edge connecting to the main output is refering to a canonical process result storage that cannot be found in this Pathway.CanonicalProcesses, check edge definition or creation of CanonicalProcesses
+4/16/2018 - 8:25 AM - The edge connecting to the main output is refering to a canonical process result storage that cannot be found in this Pathway.CanonicalProcesses, check edge definition or creation of CanonicalProcesses
+4/16/2018 - 8:25 AM - The edge connecting to the main output is refering to a canonical process result storage that cannot be found in this Pathway.CanonicalProcesses, check edge definition or creation of CanonicalProcesses
+4/16/2018 - 8:25 AM - The edge connecting to the main output is refering to a canonical process result storage that cannot be found in this Pathway.CanonicalProcesses, check edge definition or creation of CanonicalProcesses
+4/16/2018 - 8:25 AM - The edge connecting to the main output is refering to a canonical process result storage that cannot be found in this Pathway.CanonicalProcesses, check edge definition or creation of CanonicalProcesses
+4/16/2018 - 8:25 AM - The edge connecting to the main output is refering to a canonical process result storage that cannot be found in this Pathway.CanonicalProcesses, check edge definition or creation of CanonicalProcesses
+4/16/2018 - 8:25 AM - The edge connecting to the main output is refering to a canonical process result storage that cannot be found in this Pathway.CanonicalProcesses, check edge definition or creation of CanonicalProcesses
+4/16/2018 - 8:25 AM - The edge connecting to the main output is refering to a canonical process result storage that cannot be found in this Pathway.CanonicalProcesses, check edge definition or creation of CanonicalProcesses
+4/16/2018 - 8:25 AM - The edge connecting to the main output is refering to a canonical process result storage that cannot be found in this Pathway.CanonicalProcesses, check edge definition or creation of CanonicalProcesses
+4/16/2018 - 8:25 AM - The edge connecting to the main output is refering to a canonical process result storage that cannot be found in this Pathway.CanonicalProcesses, check edge definition or creation of CanonicalProcesses
+4/16/2018 - 8:25 AM - The edge connecting to the main output is refering to a canonical process result storage that cannot be found in this Pathway.CanonicalProcesses, check edge definition or creation of CanonicalProcesses
+4/16/2018 - 8:25 AM - The edge connecting to the main output is refering to a canonical process result storage that cannot be found in this Pathway.CanonicalProcesses, check edge definition or creation of CanonicalProcesses
+4/16/2018 - 8:25 AM - The edge connecting to the main output is refering to a canonical process result storage that cannot be found in this Pathway.CanonicalProcesses, check edge definition or creation of CanonicalProcesses
+4/16/2018 - 8:25 AM - The edge connecting to the main output is refering to a canonical process result storage that cannot be found in this Pathway.CanonicalProcesses, check edge definition or creation of CanonicalProcesses
+4/16/2018 - 8:25 AM - The edge connecting to the main output is refering to a canonical process result storage that cannot be found in this Pathway.CanonicalProcesses, check edge definition or creation of CanonicalProcesses
+4/16/2018 - 8:25 AM - The edge connecting to the main output is refering to a canonical process result storage that cannot be found in this Pathway.CanonicalProcesses, check edge definition or creation of CanonicalProcesses
+4/16/2018 - 8:25 AM - The edge connecting to the main output is refering to a canonical process result storage that cannot be found in this Pathway.CanonicalProcesses, check edge definition or creation of CanonicalProcesses
+4/16/2018 - 8:25 AM - The edge connecting to the main output is refering to a canonical process result storage that cannot be found in this Pathway.CanonicalProcesses, check edge definition or creation of CanonicalProcesses
+4/16/2018 - 8:25 AM - The edge connecting to the main output is refering to a canonical process result storage that cannot be found in this Pathway.CanonicalProcesses, check edge definition or creation of CanonicalProcesses
+4/16/2018 - 8:25 AM - The edge connecting to the main output is refering to a canonical process result storage that cannot be found in this Pathway.CanonicalProcesses, check edge definition or creation of CanonicalProcesses
+4/16/2018 - 8:25 AM - The edge connecting to the main output is refering to a canonical process result storage that cannot be found in this Pathway.CanonicalProcesses, check edge definition or creation of CanonicalProcesses
+4/16/2018 - 8:25 AM - The edge connecting to the main output is refering to a canonical process result storage that cannot be found in this Pathway.CanonicalProcesses, check edge definition or creation of CanonicalProcesses
+4/16/2018 - 8:25 AM - The edge connecting to the main output is refering to a canonical process result storage that cannot be found in this Pathway.CanonicalProcesses, check edge definition or creation of CanonicalProcesses
+4/16/2018 - 8:25 AM - The edge connecting to the main output is refering to a canonical process result storage that cannot be found in this Pathway.CanonicalProcesses, check edge definition or creation of CanonicalProcesses
+4/16/2018 - 8:25 AM - The edge connecting to the main output is refering to a canonical process result storage that cannot be found in this Pathway.CanonicalProcesses, check edge definition or creation of CanonicalProcesses
+4/16/2018 - 8:25 AM - The edge connecting to the main output is refering to a canonical process result storage that cannot be found in this Pathway.CanonicalProcesses, check edge definition or creation of CanonicalProcesses
+4/16/2018 - 8:25 AM - The edge connecting to the main output is refering to a canonical process result storage that cannot be found in this Pathway.CanonicalProcesses, check edge definition or creation of CanonicalProcesses
+4/16/2018 - 8:25 AM - The edge connecting to the main output is refering to a canonical process result storage that cannot be found in this Pathway.CanonicalProcesses, check edge definition or creation of CanonicalProcesses
+4/16/2018 - 8:25 AM - The edge connecting to the main output is refering to a canonical process result storage that cannot be found in this Pathway.CanonicalProcesses, check edge definition or creation of CanonicalProcesses
+4/16/2018 - 8:25 AM - The edge connecting to the main output is refering to a canonical process result storage that cannot be found in this Pathway.CanonicalProcesses, check edge definition or creation of CanonicalProcesses
+4/16/2018 - 8:25 AM - The edge connecting to the main output is refering to a canonical process result storage that cannot be found in this Pathway.CanonicalProcesses, check edge definition or creation of CanonicalProcesses
+4/16/2018 - 8:25 AM - The edge connecting to the main output is refering to a canonical process result storage that cannot be found in this Pathway.CanonicalProcesses, check edge definition or creation of CanonicalProcesses
+4/16/2018 - 8:25 AM - The edge connecting to the main output is refering to a canonical process result storage that cannot be found in this Pathway.CanonicalProcesses, check edge definition or creation of CanonicalProcesses
+4/16/2018 - 8:25 AM - The edge connecting to the main output is refering to a canonical process result storage that cannot be found in this Pathway.CanonicalProcesses, check edge definition or creation of CanonicalProcesses
+4/16/2018 - 8:25 AM - The edge connecting to the main output is refering to a canonical process result storage that cannot be found in this Pathway.CanonicalProcesses, check edge definition or creation of CanonicalProcesses
+4/16/2018 - 8:25 AM - The edge connecting to the main output is refering to a canonical process result storage that cannot be found in this Pathway.CanonicalProcesses, check edge definition or creation of CanonicalProcesses
+4/16/2018 - 8:25 AM - The edge connecting to the main output is refering to a canonical process result storage that cannot be found in this Pathway.CanonicalProcesses, check edge definition or creation of CanonicalProcesses
+4/16/2018 - 8:25 AM - The edge connecting to the main output is refering to a canonical process result storage that cannot be found in this Pathway.CanonicalProcesses, check edge definition or creation of CanonicalProcesses
+4/16/2018 - 8:25 AM - The edge connecting to the main output is refering to a canonical process result storage that cannot be found in this Pathway.CanonicalProcesses, check edge definition or creation of CanonicalProcesses
+4/16/2018 - 8:25 AM - The edge connecting to the main output is refering to a canonical process result storage that cannot be found in this Pathway.CanonicalProcesses, check edge definition or creation of CanonicalProcesses
+4/16/2018 - 8:25 AM - The edge connecting to the main output is refering to a canonical process result storage that cannot be found in this Pathway.CanonicalProcesses, check edge definition or creation of CanonicalProcesses
+4/16/2018 - 8:25 AM - The edge connecting to the main output is refering to a canonical process result storage that cannot be found in this Pathway.CanonicalProcesses, check edge definition or creation of CanonicalProcesses
+4/16/2018 - 8:25 AM - The edge connecting to the main output is refering to a canonical process result storage that cannot be found in this Pathway.CanonicalProcesses, check edge definition or creation of CanonicalProcesses
+4/16/2018 - 8:25 AM - The edge connecting to the main output is refering to a canonical process result storage that cannot be found in this Pathway.CanonicalProcesses, check edge definition or creation of CanonicalProcesses
+4/16/2018 - 8:25 AM - The edge connecting to the main output is refering to a canonical process result storage that cannot be found in this Pathway.CanonicalProcesses, check edge definition or creation of CanonicalProcesses
+4/16/2018 - 8:25 AM - The edge connecting to the main output is refering to a canonical process result storage that cannot be found in this Pathway.CanonicalProcesses, check edge definition or creation of CanonicalProcesses
+4/16/2018 - 8:25 AM - The edge connecting to the main output is refering to a canonical process result storage that cannot be found in this Pathway.CanonicalProcesses, check edge definition or creation of CanonicalProcesses
+4/16/2018 - 8:25 AM - The edge connecting to the main output is refering to a canonical process result storage that cannot be found in this Pathway.CanonicalProcesses, check edge definition or creation of CanonicalProcesses
+4/16/2018 - 9:03 AM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 9:03 AM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 9:03 AM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 9:03 AM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 9:04 AM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 9:04 AM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 9:04 AM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 9:04 AM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 9:04 AM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 9:04 AM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 9:05 AM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 9:05 AM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 9:05 AM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 9:05 AM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 9:38 AM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 9:38 AM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 9:39 AM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 9:39 AM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 9:40 AM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 9:40 AM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 9:40 AM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 9:41 AM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 9:41 AM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 9:41 AM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 9:41 AM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 9:41 AM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 9:41 AM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 9:42 AM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 9:42 AM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 9:42 AM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 9:42 AM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 10:42 AM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 10:42 AM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 10:42 AM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 10:42 AM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 10:43 AM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 10:43 AM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 10:43 AM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 10:43 AM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 10:43 AM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 10:43 AM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 10:44 AM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 10:44 AM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 10:44 AM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 10:44 AM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 12:34 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 12:34 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 12:34 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 12:34 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 12:35 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 12:35 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 12:35 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 12:35 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 12:35 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 12:35 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 12:36 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 12:36 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 12:36 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 12:36 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 12:36 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 12:36 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 12:46 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 12:46 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 12:46 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 12:46 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 12:47 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 12:47 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 12:47 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 12:47 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 12:47 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 12:47 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 12:48 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 12:48 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 12:48 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 12:48 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 12:48 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 12:48 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 12:51 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 12:51 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:04 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:04 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:04 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:05 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:05 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:05 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:05 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:05 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:05 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:06 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:06 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:06 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:06 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:06 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:06 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:06 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:23 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:23 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:25 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:25 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:25 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:25 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:26 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:26 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:26 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:26 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:26 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:26 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:27 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:27 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:27 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:27 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:27 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:27 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:27 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:28 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:28 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:28 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:28 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:28 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:28 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:29 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:29 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:29 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:29 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:29 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:29 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:30 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:30 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:30 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:30 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:30 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:30 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:31 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:31 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:31 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:31 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:31 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:31 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:32 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:32 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:32 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:32 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:32 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:32 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:32 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:35 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:35 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:36 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:36 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:36 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:36 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:36 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:36 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:37 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:37 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:37 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:37 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:37 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:37 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:37 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:38 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:38 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:38 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:38 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:38 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:38 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:39 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:39 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:39 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:39 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:39 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:39 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:40 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:40 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:40 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:40 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:40 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:40 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:41 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:41 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:41 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:41 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:41 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:41 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:42 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:42 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:42 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:42 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:42 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:42 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:42 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:43 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:43 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:43 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:43 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:43 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:43 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:44 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:44 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:44 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:44 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:44 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:44 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:45 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:45 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:45 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:45 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:45 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:45 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:46 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:46 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:46 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:46 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:46 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:46 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:46 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:47 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:47 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:47 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:47 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:47 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:47 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:48 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:48 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:48 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:48 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:48 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:48 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:49 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:49 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:49 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:49 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:49 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:49 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:50 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:50 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:50 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:50 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:50 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:50 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:50 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:51 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:51 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:51 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:51 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:51 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:51 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:52 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:52 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:52 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:52 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:52 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:52 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:53 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:53 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:53 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:53 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:53 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:53 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:54 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:54 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:54 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:54 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:54 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:54 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:54 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:55 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:55 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:55 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:55 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:55 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:55 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:56 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:56 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:56 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:56 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:56 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:56 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:57 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:57 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:57 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:57 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:57 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:57 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:58 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:58 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:58 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:58 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:58 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:58 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:58 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:59 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:59 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:59 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:59 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:59 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 1:59 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 2:00 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 2:00 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 2:00 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 2:00 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 2:00 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 2:00 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 2:01 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 2:01 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 2:01 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 2:01 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 2:01 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 2:01 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 2:02 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 2:02 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 2:02 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 2:02 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 2:02 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 2:02 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 2:02 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 2:03 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 2:03 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 2:03 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 2:03 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 2:03 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 2:03 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 2:04 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 2:04 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 2:04 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 2:04 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 2:04 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 2:04 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 2:05 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 2:05 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 2:05 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 2:05 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 2:05 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 2:05 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 2:06 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 2:06 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 2:06 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 2:06 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 2:06 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 2:06 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 2:06 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 2:07 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 2:07 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 2:07 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 2:07 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 2:07 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 2:07 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 2:08 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 2:08 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 2:08 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 2:08 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 2:08 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 2:08 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 2:09 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 2:09 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 2:09 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 2:09 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 2:09 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 2:09 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 2:10 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 2:10 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 2:10 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 2:10 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 2:10 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 2:10 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 2:11 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 2:11 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 2:11 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 2:11 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 2:11 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 2:11 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 2:11 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 2:12 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 2:12 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 2:12 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 2:12 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 2:12 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 2:12 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 2:13 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 2:13 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 2:13 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 2:13 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 2:13 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 2:13 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 2:14 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 2:14 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 2:14 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 2:14 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 2:14 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 2:14 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 2:14 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 2:15 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 2:15 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 2:15 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 2:15 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 2:15 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 2:15 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 2:16 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 2:16 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 2:16 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder
+4/16/2018 - 2:16 PM - Can't update frequencies for Resource id 69006081. It does not exist in Holder

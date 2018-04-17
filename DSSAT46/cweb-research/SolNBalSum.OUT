@@ -1,11 +1,11 @@
 
 *SOIL N BALANCE - CENTURY ROUTINES
 
-*DSSAT Cropping System Model Ver. 4.6.1.000 -release      APR 15, 2018; 17:43:28
+*DSSAT Cropping System Model Ver. 4.6.1.000 -release      APR 16, 2018; 14:44:24
 
 !                     |------------------- N State Variables -------------------| |------------ N Additions ------------| |---------- N Subtractions -----------| |-Mineralization--|
 !                                                                                   Harvest   Applied                                  Denit-             Ammonia    Miner-    Immob-  Seasonal
 !                       Surface      SOM1      SOM2      SOM3    Litter     Inorg   Residue   Residue  Fertiliz   Senesed   Leached    rified    Uptake  Volatil.    alized    ilized   Balance
 @Run FILEX         TN      SN0D     S1NTD     S2NTD     S3NTD      LNTD      NIAD      HRNH     RESNC      NICM     SNNTC      NLCM      NDNC      NUCM      AMLS      NMNC      NIMC   SEASBAL
    1 UNME2015.MZX INIT     0.00      0.00  14004.50      0.00      1.80     20.67
-   1 UNME2015.MZX   1      0.00      0.00  13899.35      0.00      2.89     83.72      0.00      0.00    300.00      6.18      1.19     10.93    329.98      5.08    110.23      0.00      0.00
+   1 UNME2015.MZX   1      0.00      0.00  13897.53      0.00      2.96     30.45      0.00      0.00    150.00      7.00      1.17      5.19    243.17      3.51    112.81      0.00      0.00

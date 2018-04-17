@@ -1,6 +1,6 @@
 *SOIL INORGANIC N BALANCE
 
-*DSSAT Cropping System Model Ver. 4.6.1.000 -release      APR 15, 2018; 17:43:28
+*DSSAT Cropping System Model Ver. 4.6.1.000 -release      APR 16, 2018; 14:44:24
                                                                                 
 *RUN   1        : Sim                       MZCER046 UNME2015    1              
  MODEL          : MZCER046 - Maize                                              
@@ -14,18 +14,18 @@
 !                                                2015/091            2015/288
 !SOIL INORGANIC N BALANCE                       -----------kg N/ha-----------
 
-!   Soil NO3                                        18.60               81.85
-!   Soil NH4                                         2.07                1.87
+!   Soil NO3                                        18.60               28.51
+!   Soil NH4                                         2.07                1.93
 !   Soil Urea                                        0.00                0.00
 
 !   Added to / Removed from Soil:
-!   Fertilizer N                                   300.00
-!   Mineralized N                                  110.23
-!   Leached NO3                                                          1.19
-!   N Denitrified                                                       10.93
-!   N Uptake From Soil                                                 329.98
-!   Ammonia volatilization                                               5.08
+!   Fertilizer N                                   150.00
+!   Mineralized N                                  112.81
+!   Leached NO3                                                          1.17
+!   N Denitrified                                                        5.19
+!   N Uptake From Soil                                                 243.17
+!   Ammonia volatilization                                               3.51
 !   N immobilized                                                        0.00
 
-!   Total N balance                                430.90              430.90
+!   Total N balance                                283.48              283.48
 !   Balance                                                             0.000

@@ -15,6 +15,7 @@ from InputCreator import Fertilizer as Fert
 from InputCreator import Tillage as Till
 from InputCreator import Chemicals as Chem
 from PTW import E85, Gas
+import xlwings as xw
 
 class GREET(DF, DM):
     
@@ -30,7 +31,7 @@ class GREET(DF, DM):
     Wet Mill (process)                    p601
     """
     
-    def __init__(self,crop,cultivar,soil,weather,st_yr,plant_month,plant_date,ppop,pmeth,row_space,pdepth,irrsim,h_mo,h_day,w_suff,mode,batchfile,ofile,filei='cut',fileo='out.greet',yr=2015,fuel='corn'):
+    def __init__(self,crop,cultivar,soil,weather,st_yr,plant_month,plant_date,ppop,pmeth,row_space,pdepth,irrsim,h_mo,h_day,w_suff,mode,batchfile,ofile,filei='New',fileo='out.greet',yr=2015,fuel='corn'):
         
         # water parameter is input in m^3 water per bu corn
         # N fertilizer parameter is input in kg/bu
@@ -121,7 +122,7 @@ class GREET(DF, DM):
         csvfile.close()
         low = pd.read_csv('greetdata1.csv')
         high = pd.read_csv('greetdata2.csv')
-        
+        print('water E85 is:',low.iloc[5])
         ghg_low = low.iloc[14][1]*23+low.iloc[15][1]*296+low.iloc[16][1]+low.iloc[17][1]
         ghg_high = high.iloc[14][1]*23+high.iloc[15][1]*296+high.iloc[16][1]+high.iloc[17][1]
         low.iloc[18] = ['GHG',ghg_low]
@@ -151,6 +152,8 @@ class GREET(DF, DM):
 
         save.to_csv('saved.csv')
 
+'''
+FERTILIZER SCENARIO
 fert = [0,50,100,150,200,250,300]
 for f in fert:
 #     os.remove('saved.csv')
@@ -165,8 +168,49 @@ for f in fert:
     y = int(r[20])
 #     print("PPOP",p,"FERTILIZER",f,"YIELD:",y)
 #     i+=1
+'''
 
+'''
+PPOP SCENARIO
+pop = list(range(5,13))
+fert = [90,110,110,120,120,120,120,130]
 
+for i in range(0,8):
+    Fert(mo =5,d=1,fmat='FE004',fapp='AP003',fdep=0,famn=fert[i],famp=0,famk=0,famc=-99,famo=-99,focd=-99,fername=-99,nwyr='yes')
+    gt = GREET(crop='Maize',cultivar='GDD2600',soil='Loam',weather='UNME',st_yr=2015,plant_month=5,plant_date=1,ppop=pop[i],pmeth='S',row_space=75,pdepth=5,mode='B',irrsim='F',h_mo=10,h_day=15,w_suff='01',batchfile='run.v46',ofile='output.OUT',fuel='corn')
+    g = gt.Model()
+    path = 'C:/DSGT/DSSAT46/cweb-research/SensA'
+    os.rename('saved.csv',os.path.join(path,'ppop_%d.csv'%(pop[i])))
+'''
+
+i = 77
+j = 96
+k = 115
+pop = range(5,13)
+fert = range(100,260,10)
+wb = xw.Book('C:/DSSAT46/DSSAT_wrapper/src/root/nested/SensA/ppop_res.xlsx')
+ws = xw.Sheet('ppop_5')
+for p in pop:
+    for f in fert:
+        Fert(mo =5,d=1,fmat='FE004',fapp='AP003',fdep=0,famn=f,famp=0,famk=0,famc=-99,famo=-99,focd=-99,fername=-99,nwyr='yes')
+        gt = GREET(crop='Maize',cultivar='GDD2600',soil='Loam',weather='UNME',st_yr=2015,plant_month=5,plant_date=1,ppop=p,pmeth='S',row_space=75,pdepth=5,mode='B',irrsim='F',h_mo=10,h_day=15,w_suff='01',batchfile='run.v46',ofile='output.OUT',fuel='corn')
+        g = gt.Model()
+        file = open("Summary.OUT", 'r')
+        r = file.readlines()[-1].split()
+        file.close()
+        y = int(r[20])
+        print(y)
+        ws.range('%s%d'%(chr(i),k)).value = y
+        fp = pd.read_csv('saved.csv')
+        ghg = fp.loc[8,'Abs Footprint']
+        print(ghg)
+        ws.range('%s%d'%(chr(i),j)).value = ghg
+        j+=1
+        k+=1
+    i+=1
+    j=96
+    k=115
+        
 '''
 # OPTIMAL PLANT POPULATION SCENARIO ANALYSIS
 import win32com.client
